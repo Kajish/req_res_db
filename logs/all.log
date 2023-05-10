@@ -1,0 +1,1629 @@
+{"level":"error","message":"This is an error message"}
+{"level":"info","message":"This is an info message"}
+{"level":"info","message":"entered getallusers"}
+{"level":"error","message":"This is an error message"}
+{"level":"info","message":"This is an info message"}
+{"level":"info","message":"entered getallusers"}
+{"level":"error"}
+{"level":"error","message":"This is an error message","timestamp":"2023-03-16T07:17:05.124Z"}
+{"level":"info","message":"This is an info message","timestamp":"2023-03-16T07:17:05.128Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-03-16T07:17:10.985Z"}
+{"level":"info","message":"entered service layer","timestamp":"2023-03-16T07:17:10.986Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-16T07:19:46.202Z"}
+{"level":"info","message":9,"timestamp":"2023-03-16T07:19:46.205Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-16T07:23:34.694Z"}
+{"level":"info","message":9,"timestamp":"2023-03-16T07:23:34.695Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-03-16T07:25:59.107Z"}
+{"level":"info","message":"entered service layer","timestamp":"2023-03-16T07:25:59.109Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-17T04:06:35.359Z"}
+{"level":"info","message":11,"timestamp":"2023-03-17T04:06:35.361Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-17T04:17:18.067Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-17T04:18:37.219Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-17T04:19:56.633Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-17T04:23:35.454Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-17T04:26:20.340Z"}
+{"level":"info","message":null,"timestamp":"2023-03-17T04:26:20.345Z"}
+{"kind":"Number","message":"Cast to Number failed for value \"NaN\" (type number) at path \"id\" for model \"User\"","name":"CastError","path":"id","reason":{"actual":false,"code":"ERR_ASSERTION","expected":true,"generatedMessage":true,"operator":"=="},"stringValue":"\"NaN\"","value":null,"valueType":"number"}
+{"level":"error","message":"error finding user","timestamp":"2023-03-17T04:26:20.387Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-17T04:26:43.872Z"}
+{"level":"info","message":12,"timestamp":"2023-03-17T04:26:43.873Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-03-17T04:26:43.887Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-17T04:30:24.814Z"}
+{"level":"info","message":12,"timestamp":"2023-03-17T04:30:24.815Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-03-17T04:30:24.822Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-17T04:30:30.799Z"}
+{"level":"info","message":null,"timestamp":"2023-03-17T04:30:30.799Z"}
+{"kind":"Number","message":"Cast to Number failed for value \"NaN\" (type number) at path \"id\" for model \"User\"","name":"CastError","path":"id","reason":{"actual":false,"code":"ERR_ASSERTION","expected":true,"generatedMessage":true,"operator":"=="},"stringValue":"\"NaN\"","value":null,"valueType":"number"}
+{"level":"error","message":"error finding user","timestamp":"2023-03-17T04:30:30.808Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-17T04:31:25.161Z"}
+{"level":"info","message":null,"timestamp":"2023-03-17T04:31:25.169Z"}
+{"kind":"Number","message":"Cast to Number failed for value \"NaN\" (type number) at path \"id\" for model \"User\"","name":"CastError","path":"id","reason":{"actual":false,"code":"ERR_ASSERTION","expected":true,"generatedMessage":true,"operator":"=="},"stringValue":"\"NaN\"","value":null,"valueType":"number"}
+{"level":"error","message":"error finding user","timestamp":"2023-03-17T04:31:25.206Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-17T04:31:55.228Z"}
+{"level":"info","message":null,"timestamp":"2023-03-17T04:31:55.230Z"}
+{"kind":"Number","message":"Cast to Number failed for value \"NaN\" (type number) at path \"id\" for model \"User\"","name":"CastError","path":"id","reason":{"actual":false,"code":"ERR_ASSERTION","expected":true,"generatedMessage":true,"operator":"=="},"stringValue":"\"NaN\"","value":null,"valueType":"number"}
+{"level":"error","message":"error finding user","timestamp":"2023-03-17T04:31:55.236Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-17T04:34:28.693Z"}
+{"level":"info","message":null,"timestamp":"2023-03-17T04:34:28.700Z"}
+{"kind":"Number","message":"Cast to Number failed for value \"NaN\" (type number) at path \"id\" for model \"User\"","name":"CastError","path":"id","reason":{"actual":false,"code":"ERR_ASSERTION","expected":true,"generatedMessage":true,"operator":"=="},"stringValue":"\"NaN\"","value":null,"valueType":"number"}
+{"level":"error","message":"error finding user","timestamp":"2023-03-17T04:34:28.748Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-17T04:36:19.929Z"}
+{"level":"info","message":null,"timestamp":"2023-03-17T04:36:19.935Z"}
+{"kind":"Number","message":"Cast to Number failed for value \"NaN\" (type number) at path \"id\" for model \"User\"","name":"CastError","path":"id","reason":{"actual":false,"code":"ERR_ASSERTION","expected":true,"generatedMessage":true,"operator":"=="},"stringValue":"\"NaN\"","value":null,"valueType":"number"}
+{"level":"error","message":"error finding user","timestamp":"2023-03-17T04:36:19.983Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-17T04:36:42.688Z"}
+{"level":"info","message":null,"timestamp":"2023-03-17T04:36:42.695Z"}
+{"kind":"Number","message":"Cast to Number failed for value \"NaN\" (type number) at path \"id\" for model \"User\"","name":"CastError","path":"id","reason":{"actual":false,"code":"ERR_ASSERTION","expected":true,"generatedMessage":true,"operator":"=="},"stringValue":"\"NaN\"","value":null,"valueType":"number"}
+{"level":"error","message":"error finding user","timestamp":"2023-03-17T04:36:42.751Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-17T04:37:02.884Z"}
+{"level":"info","message":null,"timestamp":"2023-03-17T04:37:02.893Z"}
+{"kind":"Number","message":"Cast to Number failed for value \"NaN\" (type number) at path \"id\" for model \"User\"","name":"CastError","path":"id","reason":{"actual":false,"code":"ERR_ASSERTION","expected":true,"generatedMessage":true,"operator":"=="},"stringValue":"\"NaN\"","value":null,"valueType":"number"}
+{"level":"error","message":"error finding user","timestamp":"2023-03-17T04:37:02.960Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-17T04:37:14.246Z"}
+{"level":"info","message":null,"timestamp":"2023-03-17T04:37:14.253Z"}
+{"kind":"Number","message":"Cast to Number failed for value \"NaN\" (type number) at path \"id\" for model \"User\"","name":"CastError","path":"id","reason":{"actual":false,"code":"ERR_ASSERTION","expected":true,"generatedMessage":true,"operator":"=="},"stringValue":"\"NaN\"","value":null,"valueType":"number"}
+{"level":"error","message":"error finding user","timestamp":"2023-03-17T04:37:14.316Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-17T04:38:01.896Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-17T04:38:49.541Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-17T04:39:08.508Z"}
+{"level":"info","message":null,"timestamp":"2023-03-17T04:39:08.517Z"}
+{"kind":"Number","message":"Cast to Number failed for value \"NaN\" (type number) at path \"id\" for model \"User\"","name":"CastError","path":"id","reason":{"actual":false,"code":"ERR_ASSERTION","expected":true,"generatedMessage":true,"operator":"=="},"stringValue":"\"NaN\"","value":null,"valueType":"number"}
+{"level":"error","message":"error finding user","timestamp":"2023-03-17T04:39:08.579Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-17T04:39:27.386Z"}
+{"level":"info","message":null,"timestamp":"2023-03-17T04:39:27.393Z"}
+{"kind":"Number","message":"Cast to Number failed for value \"NaN\" (type number) at path \"id\" for model \"User\"","name":"CastError","path":"id","reason":{"actual":false,"code":"ERR_ASSERTION","expected":true,"generatedMessage":true,"operator":"=="},"stringValue":"\"NaN\"","value":null,"valueType":"number"}
+{"level":"error","message":"error finding user","timestamp":"2023-03-17T04:39:27.459Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-17T04:39:52.896Z"}
+{"level":"info","message":null,"timestamp":"2023-03-17T04:39:52.903Z"}
+{"kind":"Number","message":"Cast to Number failed for value \"NaN\" (type number) at path \"id\" for model \"User\"","name":"CastError","path":"id","reason":{"actual":false,"code":"ERR_ASSERTION","expected":true,"generatedMessage":true,"operator":"=="},"stringValue":"\"NaN\"","value":null,"valueType":"number"}
+{"level":"error","message":"error finding user","timestamp":"2023-03-17T04:39:53.074Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-17T04:40:27.685Z"}
+{"level":"info","message":null,"timestamp":"2023-03-17T04:40:27.690Z"}
+{"kind":"Number","message":"Cast to Number failed for value \"NaN\" (type number) at path \"id\" for model \"User\"","name":"CastError","path":"id","reason":{"actual":false,"code":"ERR_ASSERTION","expected":true,"generatedMessage":true,"operator":"=="},"stringValue":"\"NaN\"","value":null,"valueType":"number"}
+{"level":"error","message":"error finding user","timestamp":"2023-03-17T04:40:27.762Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-17T04:41:00.480Z"}
+{"level":"info","message":null,"timestamp":"2023-03-17T04:41:00.482Z"}
+{"kind":"Number","message":"Cast to Number failed for value \"NaN\" (type number) at path \"id\" for model \"User\"","name":"CastError","path":"id","reason":{"actual":false,"code":"ERR_ASSERTION","expected":true,"generatedMessage":true,"operator":"=="},"stringValue":"\"NaN\"","value":null,"valueType":"number"}
+{"level":"error","message":"error finding user","timestamp":"2023-03-17T04:41:00.493Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-03-17T04:58:32.360Z"}
+{"level":"info","message":"entered service layer","timestamp":"2023-03-17T04:58:32.365Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-17T05:01:37.884Z"}
+{"level":"info","message":8,"timestamp":"2023-03-17T05:01:37.892Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-03-17T05:01:37.922Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-17T05:02:45.965Z"}
+{"level":"info","message":8,"timestamp":"2023-03-17T05:02:45.971Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-03-17T05:02:46.000Z"}
+{"level":"error","message":"error finding user","timestamp":"2023-03-17T05:02:46.019Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-17T05:03:35.677Z"}
+{"level":"info","message":8,"timestamp":"2023-03-17T05:03:35.682Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-03-17T05:03:35.706Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-17T05:04:30.760Z"}
+{"level":"info","message":8,"timestamp":"2023-03-17T05:04:30.768Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-03-17T05:04:30.797Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-17T05:10:09.886Z"}
+{"level":"info","message":"Entered id in the request 8","timestamp":"2023-03-17T05:10:09.893Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-03-17T05:10:09.920Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-17T05:10:15.425Z"}
+{"level":"info","message":"Entered id in the request 9","timestamp":"2023-03-17T05:10:15.427Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-03-17T05:10:15.435Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-17T05:10:19.934Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-03-17T05:10:19.935Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-17T05:11:36.166Z"}
+{"level":"info","message":"Entered id in the request NaN","timestamp":"2023-03-17T05:11:36.173Z"}
+{"level":"error","message":"Error finding user check ","timestamp":"2023-03-17T05:11:36.214Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-17T05:13:52.403Z"}
+{"level":"info","message":"Entered id in the request NaN","timestamp":"2023-03-17T05:13:52.410Z"}
+{"level":"error","message":"Error finding user ","timestamp":"2023-03-17T05:13:52.446Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-17T05:14:34.606Z"}
+{"level":"error","message":"Error finding user ","timestamp":"2023-03-17T05:14:34.614Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-17T05:14:59.811Z"}
+{"level":"error","message":"Error finding user ","timestamp":"2023-03-17T05:14:59.814Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-17T05:15:01.300Z"}
+{"level":"error","message":"Error finding user ","timestamp":"2023-03-17T05:15:01.301Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-17T05:15:02.151Z"}
+{"level":"error","message":"Error finding user ","timestamp":"2023-03-17T05:15:02.156Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-17T05:15:02.895Z"}
+{"level":"error","message":"Error finding user ","timestamp":"2023-03-17T05:15:02.897Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-17T05:15:03.511Z"}
+{"level":"error","message":"Error finding user ","timestamp":"2023-03-17T05:15:03.513Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-17T05:15:04.145Z"}
+{"level":"error","message":"Error finding user ","timestamp":"2023-03-17T05:15:04.147Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-17T05:15:04.563Z"}
+{"level":"error","message":"Error finding user ","timestamp":"2023-03-17T05:15:04.565Z"}
+{"level":"error","timestamp":"2023-03-17T05:17:35.293Z"}
+{"level":"error","timestamp":"2023-03-17T05:17:50.037Z"}
+{"level":"error","timestamp":"2023-03-17T05:18:33.827Z"}
+{"level":"error","timestamp":"2023-03-17T05:19:47.168Z"}
+{"level":"error","timestamp":"2023-03-17T05:19:47.952Z"}
+{"level":"error","timestamp":"2023-03-17T05:19:48.525Z"}
+{"level":"error","timestamp":"2023-03-17T05:21:39.111Z"}
+{"level":"error","message":"Some error occured","timestamp":"2023-03-17T05:23:41.514Z"}
+{"level":"error","message":"Some error occured","timestamp":"2023-03-17T05:23:43.724Z"}
+{"level":"error","message":"Some error occured","timestamp":"2023-03-17T05:24:19.360Z"}
+{"level":"error","message":"Some error occured","timestamp":"2023-03-17T05:24:20.359Z"}
+{"level":"error","message":"Some error occured","timestamp":"2023-03-17T05:24:21.207Z"}
+{"level":"error","message":"Some error occured","timestamp":"2023-03-17T05:24:22.008Z"}
+{"level":"error","message":"Some error occured","timestamp":"2023-03-17T05:24:22.743Z"}
+{"level":"error","message":"Some error occured","timestamp":"2023-03-17T05:24:23.466Z"}
+{"level":"error","message":"Some error occured","timestamp":"2023-03-17T05:24:24.217Z"}
+{"level":"error","message":"Some error occured","timestamp":"2023-03-17T05:24:24.842Z"}
+{"level":"error","message":"Some error occured","timestamp":"2023-03-17T05:24:28.963Z"}
+{"level":"info","message":"entered randomuser","timestamp":"2023-03-17T05:25:47.920Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-17T05:28:46.053Z"}
+{"level":"info","message":"Invalid user id","timestamp":"2023-03-17T05:28:46.060Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-17T05:29:09.691Z"}
+{"level":"info","message":"Entered id in the request 99","timestamp":"2023-03-17T05:29:09.696Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-03-17T05:29:09.741Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-17T05:30:30.973Z"}
+{"level":"info","message":"Entered id in the request 99","timestamp":"2023-03-17T05:30:30.979Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-03-17T05:30:31.002Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-17T05:30:42.342Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-03-17T05:30:42.343Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-03-17T06:05:46.841Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-03-17T06:05:46.847Z"}
+{"level":"error","message":"Not valide user details","timestamp":"2023-03-17T06:05:46.870Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-03-17T06:06:16.493Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-03-17T06:06:16.495Z"}
+{"level":"error","message":"Not valide user details","timestamp":"2023-03-17T06:06:16.500Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-03-17T06:06:23.976Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-03-17T06:06:23.978Z"}
+{"level":"error","message":"Not valide user details","timestamp":"2023-03-17T06:06:23.983Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-03-17T06:07:05.026Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-03-17T06:07:05.032Z"}
+{"level":"error","message":"Not valid user details","timestamp":"2023-03-17T06:07:05.056Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-03-17T06:07:59.366Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-03-17T06:07:59.367Z"}
+{"level":"error","message":"Not valid user details","timestamp":"2023-03-17T06:07:59.374Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-03-17T06:08:07.786Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-03-17T06:08:07.788Z"}
+{"level":"error","message":"Not valid user details","timestamp":"2023-03-17T06:08:07.792Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-03-17T06:19:06.206Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-03-17T06:19:06.213Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-17T09:34:32.272Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-03-17T09:34:32.280Z"}
+{"level":"info","message":"entered randomuser","timestamp":"2023-03-17T09:38:47.525Z"}
+{"level":"info","message":"entered randomuser","timestamp":"2023-03-17T09:38:52.300Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-20T04:07:38.379Z"}
+{"level":"info","message":"Entered id in the request 1","timestamp":"2023-03-20T04:07:38.385Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-03-20T04:07:38.403Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-20T04:07:59.063Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-03-20T04:07:59.064Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-03-20T04:32:03.081Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-03-20T04:32:03.083Z"}
+{"level":"error","message":"Not valid user details","timestamp":"2023-03-20T04:32:03.097Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-03-20T04:53:35.594Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-03-20T04:53:35.598Z"}
+{"level":"error","message":"Not valid user details","timestamp":"2023-03-20T04:53:35.617Z"}
+
+{"level":"info","message":"entered getallusers","timestamp":"2023-03-26T18:08:46.529Z"}
+{"level":"info","message":"entered service layer","timestamp":"2023-03-26T18:08:46.536Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-26T18:09:08.042Z"}
+{"level":"info","message":"Entered id in the request 10","timestamp":"2023-03-26T18:09:08.043Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-26T18:18:19.364Z"}
+{"level":"info","message":"Entered id in the request 4","timestamp":"2023-03-26T18:18:19.370Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-03-26T20:13:49.032Z"}
+{"level":"info","message":"entered service layer","timestamp":"2023-03-26T20:13:49.038Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-26T20:13:54.048Z"}
+{"level":"error","message":"Error finding user ","timestamp":"2023-03-26T20:13:54.124Z"}
+{"level":"info","message":"entered randomuser","timestamp":"2023-03-26T20:13:54.133Z"}
+{"level":"error","timestamp":"2023-03-26T20:13:59.118Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-03-26T20:13:59.144Z"}
+{"level":"error","timestamp":"2023-03-26T20:13:59.146Z"}
+{"level":"error","message":"Some error occured getting a random user","timestamp":"2023-03-26T20:14:04.158Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-03-26T20:14:48.437Z"}
+{"level":"info","message":"entered service layer","timestamp":"2023-03-26T20:14:48.442Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-03-26T20:14:53.480Z"}
+{"level":"error","message":"Error finding user ","timestamp":"2023-03-26T20:14:53.571Z"}
+{"level":"info","message":"entered randomuser","timestamp":"2023-03-26T20:14:53.577Z"}
+{"level":"error","timestamp":"2023-03-26T20:14:58.533Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-03-26T20:14:58.595Z"}
+{"level":"error","timestamp":"2023-03-26T20:14:58.597Z"}
+{"level":"error","message":"Some error occured getting a random user","timestamp":"2023-03-26T20:15:03.618Z"}
+{"level":"info","message":"entered service layer","timestamp":"2023-03-26T20:19:58.355Z"}
+{"level":"info","message":"entered service layer","timestamp":"2023-03-26T20:23:17.782Z"}
+{"level":"info","message":"entered service layer","timestamp":"2023-03-26T20:23:57.384Z"}
+{"level":"info","message":"entered service layer","timestamp":"2023-03-26T20:38:33.338Z"}
+{"level":"info","message":"entered service layer","timestamp":"2023-03-26T20:45:34.857Z"}
+{"level":"info","message":"entered service layer","timestamp":"2023-03-26T21:02:10.967Z"}
+{"level":"info","message":"entered service layer","timestamp":"2023-03-26T21:06:18.497Z"}
+{"level":"info","message":"entered service layer","timestamp":"2023-03-26T21:20:24.531Z"}
+{"level":"info","message":"entered service layer","timestamp":"2023-03-27T04:18:21.478Z"}
+{"level":"info","message":"entered service layer","timestamp":"2023-03-27T04:30:38.455Z"}
+{"level":"info","message":"entered service layer","timestamp":"2023-03-27T05:24:05.671Z"}
+{"level":"info","message":"entered service layer","timestamp":"2023-03-27T08:13:21.570Z"}
+{"level":"info","message":"entered service layer","timestamp":"2023-03-27T08:13:21.618Z"}
+{"level":"info","message":"entered service layer","timestamp":"2023-03-27T08:21:03.124Z"}
+{"level":"info","message":"entered service layer","timestamp":"2023-03-27T08:21:03.139Z"}
+{"level":"info","message":"entered service layer","timestamp":"2023-03-27T08:21:15.219Z"}
+{"level":"info","message":"entered service layer","timestamp":"2023-03-27T08:21:15.255Z"}
+{"level":"info","message":"entered service layer","timestamp":"2023-03-27T08:21:54.541Z"}
+{"level":"info","message":"entered service layer","timestamp":"2023-03-27T08:21:54.557Z"}
+{"level":"info","message":"entered service layer","timestamp":"2023-03-27T08:22:52.929Z"}
+{"level":"info","message":"entered service layer","timestamp":"2023-03-27T08:22:52.939Z"}
+{"level":"info","message":"entered service layer","timestamp":"2023-03-27T08:24:46.288Z"}
+{"level":"info","message":"entered service layer","timestamp":"2023-03-27T08:24:46.303Z"}
+{"level":"info","message":"entered service layer","timestamp":"2023-03-27T08:27:17.512Z"}
+{"level":"info","message":"entered service layer","timestamp":"2023-03-27T08:27:17.525Z"}
+{"level":"info","message":"entered service layer","timestamp":"2023-03-27T09:12:10.004Z"}
+{"level":"info","message":"entered service layer","timestamp":"2023-03-27T09:12:10.052Z"}
+{"level":"info","message":"entered service layer","timestamp":"2023-03-27T09:12:55.362Z"}
+{"level":"info","message":"entered service layer","timestamp":"2023-03-27T09:12:55.403Z"}
+{"level":"info","message":"entered service layer","timestamp":"2023-03-27T09:13:54.849Z"}
+{"level":"info","message":"entered service layer","timestamp":"2023-03-27T09:13:54.896Z"}
+{"level":"info","message":"entered service layer","timestamp":"2023-03-27T09:14:24.674Z"}
+{"level":"info","message":"entered service layer","timestamp":"2023-03-27T09:14:24.719Z"}
+{"level":"info","message":"entered service layer","timestamp":"2023-03-27T09:17:26.395Z"}
+{"level":"info","message":"entered service layer","timestamp":"2023-03-27T09:17:26.431Z"}
+{"level":"info","message":"entered service layer","timestamp":"2023-03-27T09:17:37.757Z"}
+{"level":"info","message":"entered service layer","timestamp":"2023-03-27T09:17:37.767Z"}
+{"level":"info","message":"entered service layer","timestamp":"2023-03-27T09:20:01.261Z"}
+{"level":"info","message":"entered service layer","timestamp":"2023-03-27T09:20:01.289Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-14T04:32:20.257Z"}
+{"level":"info","message":"entered service layer","timestamp":"2023-04-14T04:32:20.262Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-14T04:40:08.563Z"}
+{"level":"info","message":"entered service layer","timestamp":"2023-04-14T04:40:08.572Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-14T04:40:16.164Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-14T04:40:16.165Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-14T05:14:27.669Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-14T05:14:27.758Z"}
+{"level":"error","timestamp":"2023-04-14T05:14:27.767Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-14T05:16:28.662Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-14T05:16:28.751Z"}
+{"level":"error","timestamp":"2023-04-14T05:16:28.755Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-14T10:16:57.443Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-14T10:16:57.660Z"}
+{"level":"error","timestamp":"2023-04-14T10:16:57.668Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T04:05:03.712Z"}
+{"level":"info","message":"entered service layer","timestamp":"2023-04-18T04:05:03.719Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T04:20:37.834Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T04:20:37.898Z"}
+{"level":"error","timestamp":"2023-04-18T04:20:37.902Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T04:20:47.385Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T04:20:47.544Z"}
+{"level":"error","timestamp":"2023-04-18T04:20:47.549Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T04:22:13.121Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T04:22:13.286Z"}
+{"level":"error","timestamp":"2023-04-18T04:22:13.290Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T04:22:40.861Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T04:22:41.025Z"}
+{"level":"error","timestamp":"2023-04-18T04:22:41.030Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T04:24:43.885Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T04:24:44.027Z"}
+{"level":"error","timestamp":"2023-04-18T04:24:44.033Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T04:25:08.557Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T04:25:08.712Z"}
+{"level":"error","timestamp":"2023-04-18T04:25:08.717Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T04:26:56.992Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T04:26:57.155Z"}
+{"level":"error","timestamp":"2023-04-18T04:26:57.159Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T04:28:32.830Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T04:28:32.989Z"}
+{"level":"error","timestamp":"2023-04-18T04:28:32.993Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T04:34:21.233Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T04:34:21.266Z"}
+{"level":"error","timestamp":"2023-04-18T04:34:21.269Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T04:47:51.713Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T04:47:51.918Z"}
+{"level":"error","timestamp":"2023-04-18T04:47:51.925Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T04:51:41.630Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T04:51:41.634Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T05:05:20.601Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T05:05:20.755Z"}
+{"level":"error","timestamp":"2023-04-18T05:05:20.759Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:07:06.031Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T05:07:06.042Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T05:08:34.516Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T05:08:34.661Z"}
+{"level":"error","timestamp":"2023-04-18T05:08:34.665Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:08:34.677Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T05:08:34.678Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:09:26.253Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T05:09:26.257Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:09:26.267Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T05:09:26.268Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:09:26.272Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T05:09:26.272Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T05:09:26.274Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T05:11:18.896Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T05:11:19.067Z"}
+{"level":"error","timestamp":"2023-04-18T05:11:19.071Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:11:38.587Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T05:11:38.592Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:11:38.597Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T05:11:38.598Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:11:38.601Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T05:11:38.601Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T05:11:38.601Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:12:13.256Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T05:12:13.262Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:12:13.276Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T05:12:13.277Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:12:13.281Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T05:12:13.282Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T05:12:13.283Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:12:14.026Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T05:12:14.030Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:12:14.040Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T05:12:14.041Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:12:14.045Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T05:12:14.045Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T05:12:14.046Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:13:03.044Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T05:13:03.050Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:13:03.057Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T05:13:03.057Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:13:03.060Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T05:13:03.060Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T05:13:03.061Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:15:54.786Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T05:15:54.792Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:15:54.802Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T05:15:54.806Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:15:54.809Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T05:15:54.810Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T05:15:54.810Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:16:09.914Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T05:16:09.918Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:16:09.928Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T05:16:09.929Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:16:09.932Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T05:16:09.932Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T05:16:09.933Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T05:17:35.978Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T05:17:36.139Z"}
+{"level":"error","timestamp":"2023-04-18T05:17:36.145Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:17:36.153Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T05:17:36.153Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:17:36.156Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T05:17:36.156Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:17:36.161Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T05:17:36.161Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T05:17:36.163Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T05:18:45.390Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T05:18:45.574Z"}
+{"level":"error","timestamp":"2023-04-18T05:18:45.577Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:18:45.587Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T05:18:45.587Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:18:45.590Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T05:18:45.591Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:18:45.595Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T05:18:45.595Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T05:18:45.597Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T05:24:14.277Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T05:24:14.458Z"}
+{"level":"error","timestamp":"2023-04-18T05:24:14.462Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:24:14.472Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T05:24:14.473Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:24:14.478Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T05:24:14.478Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:24:14.489Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T05:24:14.489Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T05:24:14.490Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T05:25:44.419Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T05:25:44.601Z"}
+{"level":"error","timestamp":"2023-04-18T05:25:44.605Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:25:44.615Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T05:25:44.616Z"}
+{"level":"error","message":"Error finding user ","timestamp":"2023-04-18T05:25:44.634Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:25:44.637Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T05:25:44.637Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:25:44.640Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T05:25:44.644Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T05:25:44.647Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T05:27:40.346Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T05:27:40.616Z"}
+{"level":"error","timestamp":"2023-04-18T05:27:40.624Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:27:40.628Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T05:27:40.629Z"}
+{"level":"error","message":"Error finding user ","timestamp":"2023-04-18T05:27:40.654Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:27:40.664Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T05:27:40.664Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:27:40.674Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T05:27:40.675Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T05:27:40.677Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T05:28:34.932Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T05:28:34.994Z"}
+{"level":"error","timestamp":"2023-04-18T05:28:35.006Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:28:35.010Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T05:28:35.012Z"}
+{"level":"error","message":"Error finding user ","timestamp":"2023-04-18T05:28:35.059Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:28:35.066Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T05:28:35.067Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:28:35.071Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T05:28:35.072Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T05:28:35.074Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:31:07.549Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T05:31:07.552Z"}
+{"level":"error","message":"Error finding user ","timestamp":"2023-04-18T05:31:07.690Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:31:22.421Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T05:31:22.425Z"}
+{"level":"error","message":"Error finding user ","timestamp":"2023-04-18T05:31:22.507Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T05:36:07.305Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T05:36:07.588Z"}
+{"level":"error","timestamp":"2023-04-18T05:36:07.599Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:36:07.604Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T05:36:07.605Z"}
+{"level":"error","message":"Error finding user ","timestamp":"2023-04-18T05:36:07.633Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:36:07.637Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T05:36:07.638Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:36:07.648Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T05:36:07.649Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T05:36:07.652Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:37:43.652Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T05:37:43.663Z"}
+{"level":"error","message":"Error finding user ","timestamp":"2023-04-18T05:37:43.790Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:37:43.817Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T05:37:43.817Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:37:43.831Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T05:37:43.831Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T05:37:43.831Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T05:37:43.835Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T05:37:43.848Z"}
+{"level":"error","timestamp":"2023-04-18T05:37:43.851Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:43:58.723Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T05:43:58.729Z"}
+{"level":"error","message":"Error finding user ","timestamp":"2023-04-18T05:43:58.867Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:43:58.895Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T05:43:58.896Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:43:58.906Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T05:43:58.906Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T05:43:58.907Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:45:25.392Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T05:45:25.398Z"}
+{"level":"error","message":"Error finding user ","timestamp":"2023-04-18T05:45:25.502Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:45:25.525Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T05:45:25.526Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:45:25.534Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T05:45:25.534Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T05:45:25.535Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:46:04.062Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T05:46:04.066Z"}
+{"level":"error","message":"Error finding user ","timestamp":"2023-04-18T05:46:04.149Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:46:04.155Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T05:46:04.157Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:46:04.164Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T05:46:04.166Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T05:46:04.168Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:50:50.124Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T05:50:50.129Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:50:50.180Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T05:50:50.181Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T05:50:50.182Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:51:27.797Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T05:51:27.801Z"}
+{"level":"error","message":"Error finding user ","timestamp":"2023-04-18T05:51:27.925Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:51:27.953Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T05:51:27.953Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:51:27.962Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T05:51:27.963Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T05:51:27.963Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:51:41.363Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T05:51:41.367Z"}
+{"level":"error","message":"Error finding user ","timestamp":"2023-04-18T05:51:41.499Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:51:41.529Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T05:51:41.529Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:51:41.538Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T05:51:41.540Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T05:51:41.541Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T05:53:33.621Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T05:53:33.776Z"}
+{"level":"error","timestamp":"2023-04-18T05:53:33.783Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:53:33.791Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T05:53:33.792Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:53:33.796Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T05:53:33.796Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:53:33.800Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T05:53:33.800Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T05:53:33.804Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T05:53:48.880Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T05:53:49.007Z"}
+{"level":"error","timestamp":"2023-04-18T05:53:49.011Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:53:49.015Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T05:53:49.016Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:53:49.020Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T05:53:49.020Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:53:49.024Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T05:53:49.024Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T05:53:49.025Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T05:54:38.257Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T05:54:38.456Z"}
+{"level":"error","timestamp":"2023-04-18T05:54:38.461Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:54:38.466Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T05:54:38.468Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:54:38.474Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T05:54:38.475Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:54:38.480Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T05:54:38.484Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T05:54:38.487Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T05:55:07.572Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T05:55:07.705Z"}
+{"level":"error","timestamp":"2023-04-18T05:55:07.708Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:55:07.712Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T05:55:07.713Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:55:07.720Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T05:55:07.720Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:55:07.723Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T05:55:07.724Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T05:55:07.725Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T05:55:24.352Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T05:55:24.482Z"}
+{"level":"error","timestamp":"2023-04-18T05:55:24.485Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:55:24.492Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T05:55:24.492Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:55:24.499Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T05:55:24.500Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:55:24.505Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T05:55:24.505Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T05:55:24.506Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T05:55:52.117Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T05:55:52.259Z"}
+{"level":"error","timestamp":"2023-04-18T05:55:52.264Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:55:52.269Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T05:55:52.270Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:55:52.273Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T05:55:52.274Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:55:52.277Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T05:55:52.278Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T05:55:52.280Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T05:56:29.274Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T05:56:29.415Z"}
+{"level":"error","timestamp":"2023-04-18T05:56:29.418Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:56:29.422Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T05:56:29.423Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:56:29.428Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T05:56:29.428Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T05:56:29.432Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T05:56:29.432Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T05:56:29.433Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:27:40.200Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T06:27:40.204Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T06:29:05.281Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T06:29:05.283Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T06:29:16.420Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T06:29:16.573Z"}
+{"level":"error","timestamp":"2023-04-18T06:29:16.576Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:29:16.581Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T06:29:16.581Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:29:16.587Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T06:29:16.587Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:29:16.592Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T06:29:16.593Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T06:29:16.594Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T06:30:16.176Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T06:30:16.308Z"}
+{"level":"error","timestamp":"2023-04-18T06:30:16.312Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:30:16.320Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T06:30:16.320Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:30:16.323Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T06:30:16.323Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:30:16.327Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T06:30:16.328Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T06:30:16.329Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T06:31:01.082Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T06:31:01.087Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T06:31:04.966Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T06:31:05.098Z"}
+{"level":"error","timestamp":"2023-04-18T06:31:05.101Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:31:05.107Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T06:31:05.108Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:31:05.110Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T06:31:05.111Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:31:05.114Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T06:31:05.114Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T06:31:05.115Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T06:31:24.543Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T06:31:24.544Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T06:31:29.644Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T06:31:29.847Z"}
+{"level":"error","timestamp":"2023-04-18T06:31:29.852Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:31:29.861Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T06:31:29.862Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:31:29.866Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T06:31:29.871Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:31:29.878Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T06:31:29.878Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T06:31:29.880Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T06:36:49.957Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T06:36:50.100Z"}
+{"level":"error","timestamp":"2023-04-18T06:36:50.104Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:36:50.111Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T06:36:50.112Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:36:50.115Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T06:36:50.115Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:36:50.118Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T06:36:50.118Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T06:36:50.119Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T06:37:27.327Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T06:37:27.467Z"}
+{"level":"error","timestamp":"2023-04-18T06:37:27.471Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:37:27.484Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T06:37:27.485Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:37:27.487Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T06:37:27.487Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:37:27.494Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T06:37:27.495Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T06:37:27.497Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T06:38:16.643Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T06:38:16.787Z"}
+{"level":"error","timestamp":"2023-04-18T06:38:16.791Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:38:16.796Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T06:38:16.798Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:38:16.801Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T06:38:16.801Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:38:16.808Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T06:38:16.809Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T06:38:16.809Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T06:46:34.377Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T06:46:34.593Z"}
+{"level":"error","timestamp":"2023-04-18T06:46:34.597Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:46:34.604Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T06:46:34.604Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:46:34.609Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T06:46:34.610Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:46:34.614Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T06:46:34.615Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T06:46:34.616Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T06:47:15.473Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T06:47:15.614Z"}
+{"level":"error","timestamp":"2023-04-18T06:47:15.618Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:47:15.623Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T06:47:15.624Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:47:15.627Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T06:47:15.627Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:47:15.632Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T06:47:15.632Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T06:47:15.634Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T06:47:15.639Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T06:47:15.639Z"}
+{"level":"error","timestamp":"2023-04-18T06:47:15.652Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T06:47:15.665Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T06:47:15.665Z"}
+{"level":"error","timestamp":"2023-04-18T06:47:15.672Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T06:48:00.213Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T06:48:00.403Z"}
+{"level":"error","timestamp":"2023-04-18T06:48:00.408Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:48:00.415Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T06:48:00.419Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:48:00.423Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T06:48:00.423Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:48:00.429Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T06:48:00.429Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T06:48:00.430Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T06:48:00.440Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T06:48:00.441Z"}
+{"level":"error","timestamp":"2023-04-18T06:48:00.459Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T06:48:00.472Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T06:48:00.473Z"}
+{"level":"error","timestamp":"2023-04-18T06:48:00.477Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T06:48:01.535Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T06:48:01.539Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T06:48:28.589Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T06:48:28.860Z"}
+{"level":"error","timestamp":"2023-04-18T06:48:28.867Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:48:28.872Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T06:48:28.872Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:48:28.879Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T06:48:28.883Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:48:28.889Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T06:48:28.891Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T06:48:28.892Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T06:48:28.901Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T06:48:28.901Z"}
+{"level":"error","timestamp":"2023-04-18T06:48:28.912Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T06:48:28.926Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T06:48:28.927Z"}
+{"level":"error","timestamp":"2023-04-18T06:48:28.935Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T06:49:28.613Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T06:49:28.706Z"}
+{"level":"error","timestamp":"2023-04-18T06:49:28.721Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:49:28.734Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T06:49:28.741Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:49:28.748Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T06:49:28.749Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:49:28.757Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T06:49:28.763Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T06:49:28.766Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T06:49:28.778Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T06:49:28.781Z"}
+{"level":"error","timestamp":"2023-04-18T06:49:28.801Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T06:49:28.845Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T06:49:28.849Z"}
+{"level":"error","timestamp":"2023-04-18T06:49:28.858Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T06:50:06.701Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T06:50:06.706Z"}
+{"level":"error","timestamp":"2023-04-18T06:50:06.720Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T06:50:06.775Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T06:50:06.782Z"}
+{"level":"error","timestamp":"2023-04-18T06:50:06.796Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T06:50:38.916Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T06:50:39.068Z"}
+{"level":"error","timestamp":"2023-04-18T06:50:39.074Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:50:39.080Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T06:50:39.081Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:50:39.083Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T06:50:39.084Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:50:39.089Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T06:50:39.090Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T06:50:39.093Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T06:50:39.097Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T06:50:39.098Z"}
+{"level":"error","timestamp":"2023-04-18T06:50:39.111Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T06:50:39.132Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T06:50:39.133Z"}
+{"level":"error","timestamp":"2023-04-18T06:50:39.143Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T06:51:28.128Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T06:51:28.140Z"}
+{"level":"error","timestamp":"2023-04-18T06:51:28.158Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T06:51:33.643Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T06:51:33.646Z"}
+{"level":"error","timestamp":"2023-04-18T06:51:33.657Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T06:54:23.955Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T06:54:24.146Z"}
+{"level":"error","timestamp":"2023-04-18T06:54:24.150Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:54:24.159Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T06:54:24.160Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:54:24.165Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T06:54:24.166Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:54:24.173Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T06:54:24.173Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T06:54:24.175Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T06:54:24.180Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T06:54:24.180Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T06:54:24.199Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T06:54:24.200Z"}
+{"level":"error","timestamp":"2023-04-18T06:54:24.207Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T06:55:08.279Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T06:55:08.414Z"}
+{"level":"error","timestamp":"2023-04-18T06:55:08.422Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:55:08.429Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T06:55:08.430Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:55:08.436Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T06:55:08.440Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:55:08.448Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T06:55:08.450Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T06:55:08.458Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T06:55:08.473Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T06:55:08.474Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T06:55:08.504Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T06:55:08.505Z"}
+{"level":"error","timestamp":"2023-04-18T06:55:08.510Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T06:55:34.525Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T06:55:34.535Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T06:57:44.353Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T06:57:44.485Z"}
+{"level":"error","timestamp":"2023-04-18T06:57:44.491Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:57:44.495Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T06:57:44.496Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:57:44.498Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T06:57:44.499Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:57:44.502Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T06:57:44.502Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T06:57:44.503Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T06:57:44.509Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T06:57:44.509Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T06:57:44.527Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T06:57:44.528Z"}
+{"level":"error","timestamp":"2023-04-18T06:57:44.533Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T06:58:38.004Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T06:58:38.182Z"}
+{"level":"error","timestamp":"2023-04-18T06:58:38.185Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:58:38.196Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T06:58:38.197Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:58:38.206Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T06:58:38.206Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T06:58:38.210Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T06:58:38.211Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T06:58:38.212Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T06:58:38.217Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T06:58:38.217Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T06:58:38.243Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T06:58:38.244Z"}
+{"level":"error","timestamp":"2023-04-18T06:58:38.247Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:00:27.857Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:00:28.009Z"}
+{"level":"error","timestamp":"2023-04-18T07:00:28.016Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:00:28.020Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T07:00:28.021Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:00:28.024Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T07:00:28.024Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:00:28.028Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T07:00:28.028Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T07:00:28.033Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:00:28.038Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:00:28.038Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:00:28.056Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:00:28.057Z"}
+{"level":"error","timestamp":"2023-04-18T07:00:28.060Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:02:02.528Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:02:02.696Z"}
+{"level":"error","timestamp":"2023-04-18T07:02:02.706Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:02:02.711Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T07:02:02.711Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:02:02.719Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T07:02:02.721Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:02:02.725Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T07:02:02.726Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T07:02:02.727Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:02:02.734Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:02:02.736Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:02:02.754Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:02:02.754Z"}
+{"level":"error","timestamp":"2023-04-18T07:02:02.758Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:03:37.951Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:03:38.122Z"}
+{"level":"error","timestamp":"2023-04-18T07:03:38.127Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:03:38.135Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T07:03:38.136Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:03:38.140Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T07:03:38.140Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:03:38.145Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T07:03:38.146Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T07:03:38.150Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:03:38.154Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:03:38.155Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:03:38.174Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:03:38.175Z"}
+{"level":"error","timestamp":"2023-04-18T07:03:38.179Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:04:11.392Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:04:11.444Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:06:02.735Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:06:02.887Z"}
+{"level":"error","timestamp":"2023-04-18T07:06:02.891Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:06:02.898Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T07:06:02.898Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:06:02.902Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T07:06:02.902Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:06:02.907Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T07:06:02.908Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T07:06:02.913Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:06:02.918Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:06:02.918Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:06:02.936Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:06:02.937Z"}
+{"level":"error","timestamp":"2023-04-18T07:06:02.944Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:06:41.048Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:06:41.249Z"}
+{"level":"error","timestamp":"2023-04-18T07:06:41.253Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:06:41.262Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T07:06:41.263Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:06:41.266Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T07:06:41.267Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:06:41.271Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T07:06:41.271Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T07:06:41.278Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:06:41.286Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:06:41.287Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:06:41.304Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:06:41.305Z"}
+{"level":"error","timestamp":"2023-04-18T07:06:41.313Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:09:03.818Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:09:03.977Z"}
+{"level":"error","timestamp":"2023-04-18T07:09:03.983Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:09:03.991Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T07:09:03.992Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:09:03.998Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T07:09:04.000Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:09:04.008Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T07:09:04.008Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T07:09:04.011Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:09:04.019Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:09:04.021Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:09:04.057Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:09:04.058Z"}
+{"level":"error","timestamp":"2023-04-18T07:09:04.063Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:09:31.889Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:09:32.043Z"}
+{"level":"error","timestamp":"2023-04-18T07:09:32.047Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:09:32.054Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T07:09:32.054Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:09:32.057Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T07:09:32.057Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:09:32.063Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T07:09:32.063Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T07:09:32.064Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:09:32.067Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:09:32.068Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:09:32.081Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:09:32.082Z"}
+{"level":"error","timestamp":"2023-04-18T07:09:32.085Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:09:46.340Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:09:46.533Z"}
+{"level":"error","timestamp":"2023-04-18T07:09:46.537Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:09:46.546Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T07:09:46.547Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:09:46.551Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T07:09:46.552Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:09:46.557Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T07:09:46.557Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T07:09:46.564Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:09:46.569Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:09:46.570Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:09:46.598Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:09:46.599Z"}
+{"level":"error","timestamp":"2023-04-18T07:09:46.602Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:10:27.377Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:10:27.546Z"}
+{"level":"error","timestamp":"2023-04-18T07:10:27.549Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:10:27.558Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T07:10:27.559Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:10:27.562Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T07:10:27.562Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:10:27.567Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T07:10:27.567Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T07:10:27.568Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:10:27.576Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:10:27.576Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:10:27.594Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:10:27.596Z"}
+{"level":"error","timestamp":"2023-04-18T07:10:27.598Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:11:11.607Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:11:11.896Z"}
+{"level":"error","timestamp":"2023-04-18T07:11:11.899Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:11:11.906Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T07:11:11.907Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:11:11.911Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T07:11:11.912Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:11:11.916Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T07:11:11.916Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T07:11:11.917Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:11:11.924Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:11:11.924Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:11:11.943Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:11:11.943Z"}
+{"level":"error","timestamp":"2023-04-18T07:11:11.947Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:12:22.039Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:12:22.043Z"}
+{"level":"error","message":"Not valid user details","timestamp":"2023-04-18T07:12:22.058Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:12:37.142Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:12:37.143Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:13:52.518Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:13:52.650Z"}
+{"level":"error","timestamp":"2023-04-18T07:13:52.653Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:13:52.657Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T07:13:52.660Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:13:52.663Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T07:13:52.663Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:13:52.667Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T07:13:52.667Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T07:13:52.668Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:13:52.672Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:13:52.672Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:13:52.687Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:13:52.687Z"}
+{"level":"error","timestamp":"2023-04-18T07:13:52.690Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:14:40.833Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:14:40.972Z"}
+{"level":"error","timestamp":"2023-04-18T07:14:40.976Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:14:40.982Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T07:14:40.983Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:14:40.985Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T07:14:40.985Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:14:40.991Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T07:14:40.991Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T07:14:40.992Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:14:40.995Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:14:40.996Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:14:41.008Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:14:41.008Z"}
+{"level":"error","timestamp":"2023-04-18T07:14:41.011Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:19:08.698Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:19:08.731Z"}
+{"level":"error","timestamp":"2023-04-18T07:19:08.734Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:19:08.738Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T07:19:08.738Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:19:08.743Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T07:19:08.744Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:19:08.748Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T07:19:08.748Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T07:19:08.750Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:19:08.753Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:19:08.754Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:19:08.768Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:19:08.768Z"}
+{"level":"error","timestamp":"2023-04-18T07:19:08.772Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:32:03.904Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:32:04.134Z"}
+{"level":"error","timestamp":"2023-04-18T07:32:04.140Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:32:04.147Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T07:32:04.149Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:32:04.153Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T07:32:04.154Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:32:04.162Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T07:32:04.163Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T07:32:04.165Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:32:04.169Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:32:04.170Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:32:04.187Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:32:04.188Z"}
+{"level":"error","timestamp":"2023-04-18T07:32:04.195Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:32:22.144Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:32:22.349Z"}
+{"level":"error","timestamp":"2023-04-18T07:32:22.353Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:32:22.361Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T07:32:22.363Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:32:22.368Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T07:32:22.370Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:32:22.380Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T07:32:22.381Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T07:32:22.382Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:32:22.387Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:32:22.388Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:32:22.413Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:32:22.413Z"}
+{"level":"error","timestamp":"2023-04-18T07:32:22.431Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:43:32.912Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:43:33.053Z"}
+{"level":"error","timestamp":"2023-04-18T07:43:33.057Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:43:33.065Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T07:43:33.065Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:43:33.068Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T07:43:33.068Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:43:33.072Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T07:43:33.072Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T07:43:33.073Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:43:33.079Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:43:33.080Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:43:33.096Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:43:33.096Z"}
+{"level":"error","timestamp":"2023-04-18T07:43:33.100Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:43:40.783Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:43:40.963Z"}
+{"level":"error","timestamp":"2023-04-18T07:43:40.968Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:43:40.973Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T07:43:40.974Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:43:40.978Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T07:43:40.979Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:43:40.985Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T07:43:40.985Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T07:43:40.986Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:43:40.989Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:43:40.989Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:43:41.004Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:43:41.004Z"}
+{"level":"error","timestamp":"2023-04-18T07:43:41.007Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:45:12.749Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:45:12.836Z"}
+{"level":"error","timestamp":"2023-04-18T07:45:12.842Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:45:12.849Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T07:45:12.851Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:45:12.860Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T07:45:12.860Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:45:12.864Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T07:45:12.864Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T07:45:12.867Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:45:12.874Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:45:12.875Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:45:12.898Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:45:12.901Z"}
+{"level":"error","timestamp":"2023-04-18T07:45:12.908Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:45:24.473Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:45:24.558Z"}
+{"level":"error","timestamp":"2023-04-18T07:45:24.573Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:45:24.578Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T07:45:24.581Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:45:24.590Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T07:45:24.592Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:45:24.604Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T07:45:24.609Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T07:45:24.613Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:45:24.621Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:45:24.622Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:45:24.695Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:45:24.698Z"}
+{"level":"error","timestamp":"2023-04-18T07:45:24.709Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:46:23.975Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:46:24.190Z"}
+{"level":"error","timestamp":"2023-04-18T07:46:24.193Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:46:24.200Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T07:46:24.202Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:46:24.209Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T07:46:24.212Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:46:24.221Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T07:46:24.223Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T07:46:24.225Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:46:24.233Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:46:24.238Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:46:24.291Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:46:24.293Z"}
+{"level":"error","timestamp":"2023-04-18T07:46:24.301Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:47:06.174Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:47:06.302Z"}
+{"level":"error","timestamp":"2023-04-18T07:47:06.308Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:47:06.317Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T07:47:06.318Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:47:06.322Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T07:47:06.324Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:47:06.334Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T07:47:06.335Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T07:47:06.337Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:47:06.341Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:47:06.343Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:47:06.364Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:47:06.365Z"}
+{"level":"error","timestamp":"2023-04-18T07:47:06.368Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:47:18.607Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:47:18.690Z"}
+{"level":"error","timestamp":"2023-04-18T07:47:18.694Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:47:18.698Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T07:47:18.699Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:47:18.703Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T07:47:18.704Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:47:18.707Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T07:47:18.708Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T07:47:18.709Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:47:18.715Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:47:18.716Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:47:18.730Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:47:18.731Z"}
+{"level":"error","timestamp":"2023-04-18T07:47:18.736Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:47:18.532Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:47:18.631Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:47:18.639Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:47:18.648Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:47:18.651Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:47:18.656Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:47:18.663Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:47:18.667Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:49:43.716Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:49:43.823Z"}
+{"level":"error","timestamp":"2023-04-18T07:49:43.826Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:49:43.831Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T07:49:43.832Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:49:43.836Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T07:49:43.838Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:49:43.843Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T07:49:43.843Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T07:49:43.847Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:49:43.852Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:49:43.854Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:49:43.870Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:49:43.872Z"}
+{"level":"error","timestamp":"2023-04-18T07:49:43.878Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:49:43.770Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:49:43.871Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:49:43.881Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:49:43.889Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:49:43.921Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:49:43.932Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:49:43.938Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:49:43.945Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:51:41.025Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:51:41.113Z"}
+{"level":"error","timestamp":"2023-04-18T07:51:41.116Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:51:41.119Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T07:51:41.121Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:51:41.125Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T07:51:41.129Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:51:41.134Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T07:51:41.135Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T07:51:41.136Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:51:41.139Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:51:41.141Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:51:41.158Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:51:41.159Z"}
+{"level":"error","timestamp":"2023-04-18T07:51:41.165Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:51:41.276Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:51:41.363Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:53:38.212Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:53:38.293Z"}
+{"level":"error","timestamp":"2023-04-18T07:53:38.296Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:53:38.301Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T07:53:38.303Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:53:38.308Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T07:53:38.311Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:53:38.315Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T07:53:38.316Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T07:53:38.317Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:53:38.320Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:53:38.321Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:53:38.335Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:53:38.336Z"}
+{"level":"error","timestamp":"2023-04-18T07:53:38.341Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:53:38.450Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:53:38.532Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:53:38.537Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:54:26.771Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:54:26.864Z"}
+{"level":"error","timestamp":"2023-04-18T07:54:26.866Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:54:26.872Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T07:54:26.873Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:54:26.876Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T07:54:26.878Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:54:26.881Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T07:54:26.882Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T07:54:26.884Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:54:26.890Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:54:26.891Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:54:26.907Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:54:26.908Z"}
+{"level":"error","timestamp":"2023-04-18T07:54:26.913Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:54:27.165Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:54:27.244Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:54:27.250Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:54:27.257Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:54:27.261Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:55:40.558Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:55:40.715Z"}
+{"level":"error","timestamp":"2023-04-18T07:55:40.717Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:55:40.722Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T07:55:40.723Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:55:40.727Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T07:55:40.730Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:55:40.736Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T07:55:40.737Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T07:55:40.738Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:55:40.741Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:55:40.742Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:55:40.754Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:55:40.756Z"}
+{"level":"error","timestamp":"2023-04-18T07:55:40.759Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:55:41.066Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:55:41.259Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:55:41.272Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:55:41.278Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:55:41.289Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:55:41.304Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:56:06.924Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:56:07.015Z"}
+{"level":"error","timestamp":"2023-04-18T07:56:07.017Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:56:07.020Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T07:56:07.021Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:56:07.024Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T07:56:07.026Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:56:07.033Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T07:56:07.034Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T07:56:07.035Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:56:07.038Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:56:07.039Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:56:07.051Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:56:07.052Z"}
+{"level":"error","timestamp":"2023-04-18T07:56:07.057Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:56:07.190Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:56:07.277Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:56:07.284Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:56:07.288Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:56:07.292Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:56:07.297Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:57:11.400Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T07:57:11.499Z"}
+{"level":"error","timestamp":"2023-04-18T07:57:11.501Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:57:11.509Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T07:57:11.510Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:57:11.514Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T07:57:11.515Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T07:57:11.519Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T07:57:11.520Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T07:57:11.521Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:57:11.527Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:57:11.528Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T07:57:11.542Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:57:11.543Z"}
+{"level":"error","timestamp":"2023-04-18T07:57:11.548Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:57:11.911Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:57:12.064Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:57:12.071Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:57:12.079Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:57:12.084Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:57:12.091Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T07:57:12.095Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T08:29:29.376Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T08:29:29.597Z"}
+{"level":"error","timestamp":"2023-04-18T08:29:29.600Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T08:29:29.608Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T08:29:29.609Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T08:29:29.613Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T08:29:29.617Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T08:29:29.624Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T08:29:29.629Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T08:29:29.630Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T08:29:29.637Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T08:29:29.639Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T08:29:29.657Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T08:29:29.659Z"}
+{"level":"error","timestamp":"2023-04-18T08:29:29.667Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T08:29:29.922Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T08:29:30.046Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T08:29:30.055Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T08:29:30.062Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T08:29:30.071Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T08:29:30.076Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T08:29:30.083Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T08:30:47.101Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T08:30:47.109Z"}
+{"level":"error","message":"Not valid user details","timestamp":"2023-04-18T08:30:47.132Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T08:30:57.107Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T08:30:57.244Z"}
+{"level":"error","timestamp":"2023-04-18T08:30:57.248Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T08:30:57.255Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T08:30:57.256Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T08:30:57.267Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T08:30:57.269Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T08:30:57.276Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T08:30:57.277Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T08:30:57.280Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T08:30:57.287Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T08:30:57.289Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T08:30:57.318Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T08:30:57.320Z"}
+{"level":"error","timestamp":"2023-04-18T08:30:57.325Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T08:30:57.471Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T08:30:57.592Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T08:30:57.605Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T08:30:57.616Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T08:30:57.625Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T08:30:57.633Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T08:30:57.639Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T08:31:05.114Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T08:31:05.115Z"}
+{"level":"error","message":"Not valid user details","timestamp":"2023-04-18T08:31:05.121Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T08:31:55.379Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T08:31:55.529Z"}
+{"level":"error","timestamp":"2023-04-18T08:31:55.532Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T08:31:55.537Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T08:31:55.539Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T08:31:55.546Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T08:31:55.549Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T08:31:55.554Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T08:31:55.556Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T08:31:55.560Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T08:31:55.564Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T08:31:55.566Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T08:31:55.584Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T08:31:55.585Z"}
+{"level":"error","timestamp":"2023-04-18T08:31:55.592Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T08:31:56.591Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T08:31:56.842Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T08:31:56.854Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T08:31:56.869Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T08:31:56.883Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T08:31:56.893Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T08:31:56.902Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T08:32:11.578Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T08:32:11.691Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T08:32:11.698Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T08:32:11.704Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T08:32:11.712Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T08:32:11.717Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T08:32:11.728Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T08:32:11.711Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T08:32:11.850Z"}
+{"level":"error","timestamp":"2023-04-18T08:32:11.852Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T08:32:11.859Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T08:32:11.860Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T08:32:11.864Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T08:32:11.866Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T08:32:11.871Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T08:32:11.872Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T08:32:11.874Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T08:32:11.878Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T08:32:11.879Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T08:32:11.893Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T08:32:11.894Z"}
+{"level":"error","timestamp":"2023-04-18T08:32:11.896Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T09:50:32.013Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-18T09:50:32.155Z"}
+{"level":"error","timestamp":"2023-04-18T09:50:32.160Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T09:50:32.166Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-18T09:50:32.169Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T09:50:32.175Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-18T09:50:32.180Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-18T09:50:32.187Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-18T09:50:32.189Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-18T09:50:32.194Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T09:50:32.204Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T09:50:32.206Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-18T09:50:32.253Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T09:50:32.256Z"}
+{"level":"error","timestamp":"2023-04-18T09:50:32.265Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T09:50:33.712Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T09:50:33.832Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T09:50:33.842Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T09:50:33.850Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T09:50:33.860Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T09:50:33.866Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-18T09:50:33.872Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-19T06:02:23.976Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-19T06:02:24.080Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-19T06:02:24.089Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-19T06:02:24.095Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-19T06:02:24.104Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-19T06:02:24.109Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-19T06:02:24.113Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-19T06:02:23.976Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-19T06:02:24.083Z"}
+{"level":"error","timestamp":"2023-04-19T06:02:24.088Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-19T06:02:24.091Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-19T06:02:24.092Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-19T06:02:24.099Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-19T06:02:24.102Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-19T06:02:24.108Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-19T06:02:24.109Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-19T06:02:24.111Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-19T06:02:24.115Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-19T06:02:24.117Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-19T06:02:24.149Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-19T06:02:24.153Z"}
+{"level":"error","timestamp":"2023-04-19T06:02:24.159Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-25T07:09:03.293Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-25T07:09:03.380Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-25T07:09:03.386Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-25T07:09:03.392Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-25T07:09:03.398Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-25T07:09:03.403Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-25T07:09:03.406Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-25T07:09:03.294Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-25T07:09:03.379Z"}
+{"level":"error","timestamp":"2023-04-25T07:09:03.382Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-25T07:09:03.387Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-25T07:09:03.388Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-25T07:09:03.392Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-25T07:09:03.394Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-25T07:09:03.398Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-25T07:09:03.399Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-25T07:09:03.401Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-25T07:09:03.404Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-25T07:09:03.405Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-25T07:09:03.415Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-25T07:09:03.416Z"}
+{"level":"error","timestamp":"2023-04-25T07:09:03.442Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-28T07:35:06.883Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-28T07:35:06.973Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-28T07:35:06.980Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-28T07:35:06.986Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-28T07:35:06.993Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-28T07:35:06.999Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-28T07:35:07.005Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-28T07:35:06.883Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-28T07:35:06.968Z"}
+{"level":"error","timestamp":"2023-04-28T07:35:06.974Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-28T07:35:06.980Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-28T07:35:06.981Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-28T07:35:06.985Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-28T07:35:06.987Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-28T07:35:06.991Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-28T07:35:06.993Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-28T07:35:06.995Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-28T07:35:07.000Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-28T07:35:07.002Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-28T07:35:07.022Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-28T07:35:07.023Z"}
+{"level":"error","timestamp":"2023-04-28T07:35:07.048Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-28T07:37:48.767Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-28T07:37:48.793Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-04-28T07:37:48.861Z"}
+{"level":"error","timestamp":"2023-04-28T07:37:48.865Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-28T07:37:48.870Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-04-28T07:37:48.871Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-28T07:37:48.874Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-04-28T07:37:48.876Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-04-28T07:37:48.881Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-04-28T07:37:48.883Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-04-28T07:37:48.884Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-28T07:37:48.889Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-28T07:37:48.890Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-04-28T07:37:48.904Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-28T07:37:48.906Z"}
+{"level":"error","timestamp":"2023-04-28T07:37:48.910Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-28T07:37:48.877Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-28T07:37:48.886Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-28T07:37:48.892Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-28T07:37:48.898Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-28T07:37:48.903Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-04-28T07:37:48.907Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-05-10T05:48:17.898Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:48:17.926Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-05-10T05:48:18.194Z"}
+{"level":"error","timestamp":"2023-05-10T05:48:18.210Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-05-10T05:48:18.215Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-05-10T05:48:18.217Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-05-10T05:48:18.233Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-05-10T05:48:18.244Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-05-10T05:48:18.252Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-05-10T05:48:18.257Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-05-10T05:48:18.261Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-05-10T05:48:18.276Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:48:18.279Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-05-10T05:48:18.306Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:48:18.308Z"}
+{"level":"error","timestamp":"2023-05-10T05:48:18.317Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:48:18.292Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:48:18.313Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:48:18.323Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:48:18.330Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:48:18.356Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:48:18.377Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:49:53.427Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:49:53.903Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:49:53.912Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:49:53.933Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:49:53.943Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:49:53.950Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:49:53.955Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-05-10T05:49:53.605Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-05-10T05:49:53.919Z"}
+{"level":"error","timestamp":"2023-05-10T05:49:53.924Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-05-10T05:49:53.932Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-05-10T05:49:53.933Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-05-10T05:49:53.950Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-05-10T05:49:53.952Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-05-10T05:49:53.958Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-05-10T05:49:53.960Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-05-10T05:49:53.965Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-05-10T05:49:53.969Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:49:53.971Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-05-10T05:49:54.025Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:49:54.027Z"}
+{"level":"error","timestamp":"2023-05-10T05:49:54.038Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:50:18.840Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:50:19.165Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:50:19.188Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:50:19.197Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:50:19.205Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:50:19.214Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:50:19.218Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-05-10T05:50:18.624Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-05-10T05:50:19.142Z"}
+{"level":"error","timestamp":"2023-05-10T05:50:19.147Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-05-10T05:50:19.158Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-05-10T05:50:19.162Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-05-10T05:50:19.167Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-05-10T05:50:19.169Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-05-10T05:50:19.180Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-05-10T05:50:19.182Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-05-10T05:50:19.184Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-05-10T05:50:19.188Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:50:19.190Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-05-10T05:50:19.228Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:50:19.230Z"}
+{"level":"error","timestamp":"2023-05-10T05:50:19.235Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-05-10T05:50:41.372Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-05-10T05:50:41.646Z"}
+{"level":"error","timestamp":"2023-05-10T05:50:41.649Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-05-10T05:50:41.655Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-05-10T05:50:41.656Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-05-10T05:50:41.663Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-05-10T05:50:41.673Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-05-10T05:50:41.680Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-05-10T05:50:41.682Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-05-10T05:50:41.684Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-05-10T05:50:41.697Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:50:41.699Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-05-10T05:50:41.728Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:50:41.730Z"}
+{"level":"error","timestamp":"2023-05-10T05:50:41.735Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:50:42.558Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:50:42.701Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:50:42.714Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:50:42.720Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:50:42.729Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:50:42.734Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:50:42.746Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:51:43.733Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:51:44.296Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:51:44.306Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:51:44.313Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:51:44.326Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:51:44.331Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:51:44.344Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-05-10T05:52:22.192Z"}
+{"level":"info","message":"entered getallusers","timestamp":"2023-05-10T05:52:22.361Z"}
+{"level":"error","timestamp":"2023-05-10T05:52:22.365Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-05-10T05:52:22.372Z"}
+{"level":"info","message":"Entered id in the request 2","timestamp":"2023-05-10T05:52:22.374Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-05-10T05:52:22.379Z"}
+{"level":"error","message":"Invalid user id","timestamp":"2023-05-10T05:52:22.383Z"}
+{"level":"info","message":"entered getuserbyid","timestamp":"2023-05-10T05:52:22.390Z"}
+{"level":"info","message":"Entered id in the request 3","timestamp":"2023-05-10T05:52:22.392Z"}
+{"level":"error","message":"No such User for with specific id","timestamp":"2023-05-10T05:52:22.393Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-05-10T05:52:22.399Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:52:22.405Z"}
+{"level":"info","message":"entered adduser","timestamp":"2023-05-10T05:52:22.432Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:52:22.436Z"}
+{"level":"error","timestamp":"2023-05-10T05:52:22.442Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:52:22.240Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:52:22.376Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:52:22.390Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:52:22.396Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:52:22.411Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:52:22.423Z"}
+{"level":"info","message":"Entered validate user","timestamp":"2023-05-10T05:52:22.432Z"}
